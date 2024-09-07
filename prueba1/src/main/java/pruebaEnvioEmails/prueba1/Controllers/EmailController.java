@@ -1,7 +1,7 @@
-package Controllers;
+package pruebaEnvioEmails.prueba1.Controllers;
 
-import Dtos.EmailRequest;
-import Services.EmailService;
+import pruebaEnvioEmails.prueba1.Dtos.EmailRequest;
+import pruebaEnvioEmails.prueba1.Services.EmailService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

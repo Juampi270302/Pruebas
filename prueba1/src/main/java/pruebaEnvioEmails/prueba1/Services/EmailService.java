@@ -1,4 +1,4 @@
-package Services;
+package pruebaEnvioEmails.prueba1.Services;
 
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,5 +23,4 @@ public class EmailService {
         mailSender.send(message);
 
     }
-
 }

@@ -1,4 +1,4 @@
-package Dtos;
+package pruebaEnvioEmails.prueba1.Dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
